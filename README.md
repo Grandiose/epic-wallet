@@ -17,11 +17,11 @@ Epic is live with mainnet.
 
 ## Getting Started
 
-To build and try out Epic, see the [build docs](doc/build.md).
+To build and try out Epic, see the [build docs](https://github.com/EpicCash/epic/blob/2.17/doc/build.md).
 
-To run the Epic Cash blockchain on Linux distributions, see the tutorial of [How to run the Epic Cash blockchain on Linux](doc/running.org).
+To run the Epic Cash blockchain on Linux distributions, see the tutorial of [How to run the Epic Cash blockchain on Linux](https://github.com/EpicCash/epic/blob/2.17/doc/running.org).
 
-To run the Epic Cash blockchain on windows, see the tutorial of [How to run the Epic Cash blockchain on Windows](doc/windows.org).
+To run the Epic Cash blockchain on windows, see the tutorial of [How to run the Epic Cash blockchain on Windows](https://github.com/EpicCash/epic/blob/2.17/doc/windows.org).
 
 ## Credits
 
